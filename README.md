@@ -2,6 +2,8 @@
 
 > Capture ideas, get instant AI summaries, and auto-organize with tags.
 
+<img width="1919" height="1084" alt="image" src="https://github.com/user-attachments/assets/8c92b934-e7ce-41c5-aefc-3ccfef07dcb5" />
+
 
 🌐 Live Demo : https://note-ai-gilt-ten.vercel.app/
 

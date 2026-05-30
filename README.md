@@ -2,6 +2,9 @@
 
 > Capture ideas, get instant AI summaries, and auto-organize with tags.
 
+
+🌐 Live Demo : https://note-ai-gilt-ten.vercel.app/
+
 ---
 
 ## 🚀 Features

@@ -1,0 +1,7 @@
+noteai-frontend/node_modules/
+noteai-backend/venv/
+noteai-backend/__pycache__/
+noteai-backend/.env
+noteai-frontend/.env.local
+*.pyc
+.DS_Store
